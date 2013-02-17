@@ -27,6 +27,7 @@
 #include <assert.h>
 #include <sys/ioctl.h>
 #include <glob.h>
+#include <sys/stat.h>
 #include <asm/param.h>
 #include <scsi/scsi.h>
 #include <scsi/sg.h>
